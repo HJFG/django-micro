@@ -7,7 +7,7 @@ def read(fname):
 setup(
     name='django-micro',
     description='Django as a microframework',
-    long_description=read('README.rst'),
+#     long_description=read('README.rst'),
     keywords='django microframework',
     py_modules=['django_micro'],
     version='1.7.3',
